@@ -1,4 +1,4 @@
-# Clustering Analysis for New Story, Provide Housing for Earthquake Survivors
+# Clustering Analysis for New Story, Provide Housing for Haitian Earthquake Survivors
 
 This project is on behalf of New Story, California based NPO which provides new housings to the survivors of the Haitian earthquakes. The purpose of the project is to find the most vulnerable group of survivors, who are naturally more in needs and should be prioritized in the provision of the new housing.
 
